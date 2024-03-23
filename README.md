@@ -5,7 +5,7 @@ HW2: 都是AI的作文比賽
 
 HW3: 以API快速搭建自己的應用
 
-HW4: 成為AI催眠大師
+HW4: 成為AI催眠大師 (Become an AI Hypnosis Master)
 
 HW5: 訓練自己的語言模型
 
