@@ -1,20 +1,28 @@
-# NTU_GenAI
-HW1: Registration & Auditing
+# Introduction to Generative Artificial Intelligence
 
-HW2: 都是AI的作文比賽
+## Course Information
+- **Course**: Introduction to Generative Artificial Intelligence
+- **Instructor**: Hung-yi Lee
+- **Department**: Department of Electrical Engineering, NTU
+- **Term**: Spring 2024
 
-HW3: 以API快速搭建自己的應用
+## Contents
+### HW1: Registration & Auditing
 
-HW4: 成為AI催眠大師 (Become an AI Hypnosis Master)
+### HW2: 都是AI的作文比賽
 
-HW5: 訓練自己的語言模型 (LLM Fine-tuning)
+### HW3: 以API快速搭建自己的應用
 
-HW6: AI透過人類的回饋學習
+### HW4: 成為AI催眠大師 (Become an AI Hypnosis Master)
 
-HW7: 了解生成式AI在想甚麼
+### HW5: 訓練自己的語言模型 (LLM Fine-tuning)
 
-HW8: 生成式AI的安全性議題
+### HW6: AI透過人類的回饋學習
 
-HW9: 演講影片快速摘要
+### HW7: 了解生成式AI在想甚麼
 
-HW10: 客製化自己的影像生成AI
+### HW8: 生成式AI的安全性議題
+
+### HW9: 演講影片快速摘要
+
+### HW10: 客製化自己的影像生成AI
